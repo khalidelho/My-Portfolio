@@ -24,8 +24,8 @@ I am part of the Marketing and Development team and in charge of public relation
 
 **Co-Founder**
 
-_Quran Connect_
-  Nov 2018 - Present (2 years 11 months +)
+_Quran Connect_ <br/>
+Nov 2018 - Present (2 years 11 months +)
 
 I am a Co-founder of Quran Connect. We aim to help teachers better manage their classrooms and provide them with tools to create an efficient classroom. I started out helping code the app and began to shift my interests to customer relations. Now I am in charge of customer relations and promoting our products to teachers and students in our community. I am also in charge of creating events for us to promote our app and gather feedback from our customers.
 - Learned how to start a project and do the research necessary to create a working application.
