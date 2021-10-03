@@ -13,17 +13,14 @@ I am passionate about the latest technologies and entrepreneurship. During my ti
 
 **Experience**
 
-**Co-Founder**
-
-_Help LLC_
-
+**Co-Founder** <br/>
+_Help LLC_ <br/>
 Jun 2019 - Present (2 years 4 months +)
 
 I am part of the Marketing and Development team and in charge of public relations. I talk with businesses and customers and try to understand their needs and talking with the development team to implement these changes. I am also in charge of the Instagram page and promoting our app through Instagram and Facebook.
 
 
-**Co-Founder**
-
+**Co-Founder** <br/>
 _Quran Connect_ <br/>
 Nov 2018 - Present (2 years 11 months +)
 
@@ -31,9 +28,8 @@ I am a Co-founder of Quran Connect. We aim to help teachers better manage their 
 - Learned how to start a project and do the research necessary to create a working application.
 - Learned to Organize and set a timeline for certain milestones that we want to achieve.
 
-**Vice President of MSA**
-
-_University of Washington_
+**Vice President of MSA** <br/>
+_University of Washington_ <br/>
 Sep 2021 - Present (1 month +)
 
 -	Serve as the representative for the MSA Northwest conference
