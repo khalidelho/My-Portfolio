@@ -1,5 +1,5 @@
 ---
 title: Khalid Elhousieny's Portfolio
-filename: Index
 --- 
 
+I'm glad you are here. I plan to present myself. 
