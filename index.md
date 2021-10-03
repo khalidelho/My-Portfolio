@@ -38,6 +38,6 @@ Sep 2021 - Present (1 month +)
 -	Responsible for coordinating special events
 -	Acts as a facilitator and delegator for meetings/events
 
-**Check out my [LinkedIn](linkedin.com/in/khalid-elhousieny-752b37ab)**
+**Check out my [LinkedIn](linkedin.com/in/khalid-elhousieny-752b37ab)** <br/>
 **[Resume](https://github.com/khalidelho/My-Portfolio/files/7274551/Resume-Khalid-Elhousieny.pdf)**
 
