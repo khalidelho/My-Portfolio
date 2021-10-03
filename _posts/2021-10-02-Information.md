@@ -3,6 +3,8 @@ title: "Resources to become a better programmer"
 date: 2021-10-02
 ---
 
+![Learn-to-Code-Online](https://user-images.githubusercontent.com/47620535/135772391-890aeae6-d358-49cb-97c5-b6af1e6f4d9b.jpeg)
+
 ## I will be providing you guys with resources I used and some recommended to me to become a better programmer. 
 
 **Learning a new language:** <br/>
