@@ -32,9 +32,9 @@ I am a Co-founder of Quran Connect. We aim to help teachers better manage their 
 - Learned how to start a project and do the research necessary to create a working application.
 - Learned to Organize and set a timeline for certain milestones that we want to achieve.
 
-Vice President of MSA
+**Vice President of MSA**
 
-University of Washington
+_University of Washington_
 
 Sep 2021 - Present (1 month +)
 
@@ -44,4 +44,5 @@ Sep 2021 - Present (1 month +)
 -	Responsible for coordinating special events
 -	Acts as a facilitator and delegator for meetings/events
 
+**Check out my LinkedIn here:**
 [LinkedIn](linkedin.com/in/khalid-elhousieny-752b37ab)
