@@ -26,15 +26,15 @@ These websites will be your best friends through the coding process
 
 **Testing the app:** <br/>
 An easy way to see the progress you made on your app without having to deploy it to a store
-- Xcode 
-- Android Studio
+- [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) 
+- [Android Studio](https://developer.android.com/studio)
 
 **IDE:** <br/>
 Some platforms that you can use to code your app
-- Visual Studio Code 
-- Eclipse 
-- NetBeans
-- IntelliJ
-- IDLE
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Eclipse](https://www.eclipse.org/downloads/) 
+- [NetBeans](https://netbeans.apache.org)
+- [IntelliJ](https://www.jetbrains.com/idea/)
+- [IDLE](https://docs.python.org/3/library/idle.html)
 
 ### What worked well for me was finding a good team and coming up with an idea to start working on. The easiest thing you can make, in my opinion, is an app. get together, brainstorm some ideas and start working on a design. Once you got that down, start thinking about the best way to implement it by using what language, IDE, methodology, database, etc. And then, as you work, you will start to learn about the process put the pieces together. 
