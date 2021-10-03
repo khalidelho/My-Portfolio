@@ -39,5 +39,5 @@ Sep 2021 - Present (1 month +)
 -	Acts as a facilitator and delegator for meetings/events
 
 **Check out my [LinkedIn](linkedin.com/in/khalid-elhousieny-752b37ab)** <br/>
-**[Resume](https://github.com/khalidelho/My-Portfolio/files/7274551/Resume-Khalid-Elhousieny.pdf)**
+**Check out my [Resume](https://github.com/khalidelho/My-Portfolio/files/7274551/Resume-Khalid-Elhousieny.pdf)**
 
